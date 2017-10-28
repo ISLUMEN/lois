@@ -1,0 +1,2 @@
+# lois
+mineria  y produccion
